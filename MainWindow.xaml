@@ -46,12 +46,14 @@
                    Text="Score: "
                    Margin="0, 10"
                    TextAlignment="Center"/>
+        
 
         <StackPanel Grid.Row="1"
                     Grid.Column="0"
                     VerticalAlignment="Center"
                     HorizontalAlignment="Right">
-            <TextBlock Text="Hold"
+            <TextBlock Text="Hold Block (Click C) "
+                       FontSize="15"
                          TextAlignment="Center"/>
 
             <Image x:Name="HoldImage"
@@ -64,7 +66,8 @@
                     Grid.Column="2"
                     VerticalAlignment="Center"
                     HorizontalAlignment="Left" >
-            <TextBlock Text="Next"
+            <TextBlock Text="Next Block"
+                       FontSize="15"
                        TextAlignment="Center"/>
 
             <Image x:Name="NextImage"

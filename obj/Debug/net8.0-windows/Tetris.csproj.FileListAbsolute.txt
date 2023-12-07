@@ -18,3 +18,5 @@ C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\ob
 C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.pdb
 C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.genruntimeconfig.cache
 C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\obj\Debug\net8.0-windows\ref\Tetris.dll
+C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris_Content.g.cs
+C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\obj\Debug\net8.0-windows\Tetris.sourcelink.json

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Tetris</id>
+    <version>1.0.0</version>
+    <authors>Tetris</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="f98f87f745da4e1984d301e1c8cecba27882e100" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows7.0/Assets/Icon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.runtimeconfig.json" target="lib\net8.0-windows7.0\Tetris.runtimeconfig.json" />
+    <file src="C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\bin\Debug\net8.0-windows\Tetris.dll" target="lib\net8.0-windows7.0\Tetris.dll" />
+    <file src="C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\Assets\Icon.ico" target="content\Assets\Icon.ico" />
+    <file src="C:\Users\Rafhy\Documents\Udemy-Courses\C#-TetrisYoutubeTutorial\Tetris\Tetris\Assets\Icon.ico" target="contentFiles\any\net8.0-windows7.0\Assets\Icon.ico" />
+  </files>
+</package>
